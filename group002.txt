@@ -1,0 +1,5 @@
+Teacher: Petr 20.05.1980 Mathematic
+Students:
+Ivan 03.08.2000 7061
+Masha 05.12.2001 7062
+Igor 05.12.1999 7063
